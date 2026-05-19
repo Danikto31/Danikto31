@@ -24,12 +24,6 @@ Fullstack-разработчик из **России**.
 </td>
 <td width="45%" valign="top" align="right">
 
-<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRAZRSamA5_PEEM2yNXiQHntc-7XhSYFa5FBFMjOqifJVRIKuK5ARDvNcb9KZ5_hHxHoqOL1XEN8zei0h3kQUyUmYQ&s=19" width="100%" object-fit="cover"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Стек
@@ -58,6 +52,10 @@ Fullstack-разработчик из **России**.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
+
+</td>
+</tr>
+</table>
 
 ## Активность
 
