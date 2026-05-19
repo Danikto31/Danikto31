@@ -66,7 +66,7 @@ Fullstack-разработчик из **России**.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danikto31&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
   &nbsp;&nbsp;
-  
+  <img src="https://streak-stats.demolab.com?user=Danikto31&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 </div>
 
 ---
