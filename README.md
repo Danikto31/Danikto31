@@ -22,7 +22,7 @@ Fullstack-разработчик из **России**.
 ```
 
 </td>
-<td width="45%" valign="top" align="right" display="flex" justify-content="flex-start">
+<td width="45%" valign="top" align="left" >
 
 ## Стек
 
