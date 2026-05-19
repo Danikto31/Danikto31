@@ -24,7 +24,7 @@ Fullstack-разработчик из **России**.
 </td>
 <td width="45%" valign="top" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danikto31&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRAZRSamA5_PEEM2yNXiQHntc-7XhSYFa5FBFMjOqifJVRIKuK5ARDvNcb9KZ5_hHxHoqOL1XEN8zei0h3kQUyUmYQ&s=19" width="100%"/>
 
 </td>
 </tr>
