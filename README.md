@@ -24,7 +24,7 @@ Fullstack-разработчик из **России**.
 </td>
 <td width="45%" valign="top" align="right">
 
-<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRAZRSamA5_PEEM2yNXiQHntc-7XhSYFa5FBFMjOqifJVRIKuK5ARDvNcb9KZ5_hHxHoqOL1XEN8zei0h3kQUyUmYQ&s=19" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRAZRSamA5_PEEM2yNXiQHntc-7XhSYFa5FBFMjOqifJVRIKuK5ARDvNcb9KZ5_hHxHoqOL1XEN8zei0h3kQUyUmYQ&s=19" width="100%" object-fit="cover"/>
 
 </td>
 </tr>
