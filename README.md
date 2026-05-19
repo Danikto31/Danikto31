@@ -107,7 +107,3 @@ const approach = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer"/>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danikto31&style=flat-square&color=00d9ff&label=просмотров" />
-</div>
