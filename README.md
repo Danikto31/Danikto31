@@ -22,9 +22,7 @@ Fullstack-разработчик из **России**.
 ```
 
 </td>
-<td width="45%" valign="top" align="right">
-
----
+<td width="45%" valign="top" align="right" display="flex" justify-content="flex-start">
 
 ## Стек
 
@@ -51,7 +49,6 @@ Fullstack-разработчик из **России**.
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
----
 
 </td>
 </tr>
