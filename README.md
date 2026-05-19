@@ -1,82 +1,119 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=200&section=header&text=Арсений&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=60&descSize=22&descColor=00d9ff&animation=fadeIn"/>
+</div>
 
-# Привет, я Арсений 👋
+<br/>
 
-### 🇷🇺 Fullstack-разработчик из России
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;React+%2B+NestJS+%3D+%E2%9D%A4%EF%B8%8F;Building+cool+stuff+from+Russia+%F0%9F%87%B7%F0%9F%87%BA;Always+learning%2C+always+growing" alt="Typing SVG" />
+## `> whoami`
 
+Fullstack-разработчик из **России**.  
+Проектирую и строю веб-приложения с нуля — от wireframe в Figma до контейнера в Docker.
+
+Специализируюсь на создании **масштабируемых**, **производительных** и **поддерживаемых** решений.  
+Пишу код, который не стыдно показать и через год.
+
+```
+Статус:  ● Открыт к проектам
+Опыт:    Fullstack Development
+Регион:  Россия 🇷🇺
+```
+
+</td>
+<td width="45%" valign="top" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Danikto31&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Стек
+
+> Инструменты, которыми работаю каждый день
+
+<br/>
+
+**Интерфейс**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+**Сервер**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**Инфраструктура и инструменты**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Активность
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danikto31&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danikto31&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Danikto31&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 </div>
 
 ---
 
-## 🧑‍💻 Обо мне
+## Принципы работы
 
 ```javascript
-const arseniy = {
-  name: "Арсений",
-  location: "🇷🇺 Россия",
-  role: "Fullstack Developer",
-  focus: "Разработка современных веб-сайтов и приложений",
-  stack: ["JS", "React", "NestJS", "Node.js", "MongoDB", "Docker"],
-  design: "Figma → Code → Deploy",
-  available: true,
+// Подход к разработке
+const approach = {
+  architecture : "Думать перед тем, как писать",
+  code         : "Читаемость важнее краткости",
+  delivery     : "Работающее решение в срок",
+  growth       : "Учиться на каждом проекте",
 };
 ```
 
-Занимаюсь полноценной разработкой веб-приложений — от дизайна в Figma до деплоя в Docker.  
-Люблю чистый код, продуманную архитектуру и результат, которым можно гордиться.
-
 ---
 
-## 🛠️ Мой стек технологий
+## Контакт
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Danikto31&theme=tokyonight" />
-</div>
-
----
-
-## 📬 Связаться со мной
+<br/>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Danikto31-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Danikto31)
+**Есть проект или идея? Пишите — разберёмся.**
 
-> 💬 Пишите в Telegram — отвечу быстро!
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/Danikto31)
+
+<br/>
+
+<sub>Отвечаю в течение дня</sub>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danikto31&color=00d9ff&style=flat-square&label=Просмотры+профиля" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer"/>
+</div>
 
-  ⭐ **Если нравится моя работа — ставь звёздочки на репозитории!**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danikto31&style=flat-square&color=00d9ff&label=просмотров" />
 </div>
